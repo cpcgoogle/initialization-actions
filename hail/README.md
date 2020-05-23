@@ -1,5 +1,5 @@
-Reference-style: 
-![Hail](https://hail.is/hail-logo-cropped.png)
+![Hail](https://hail.is/hail-logo-cropped.png =250x)
+
 All work courtsey of Hail Team @https://github.com/hail-is/hail, modified for Dataproc Optional Components 
 
 # Hail 0.2 Standalone 
@@ -9,7 +9,8 @@ This folder contains the initialization action `hail_standalone.py`
 
 Hail is built to scale and has first-class support for multi-dimensional structured data, like the genomic data in a genome-wide association study (GWAS).
 
-As of Hail version 0.2.15, pip installations of Hail come bundled with a command-line tool, hailctl which has a submodule called dataproc for working with Google Dataproc clusters configured for Hail, including a fully configured notebook enviroment that can be used simply by calling hailctl dataproc connect CLUSTER_NAME notebook.
+As of Hail version 0.2.15, pip installations of Hail come bundled with a command-line tool, hailctl which has a submodule called dataproc for working with Google Dataproc clusters configured for Hail, including a fully configured notebook enviroment that can be used simply by calling 
+'hailctl dataproc connect CLUSTER_NAME notebook'
 
 **This init action is designed for running Hail without a notebook or using the Juypter notebook configured through the Dataproc Optional Component.**
 
