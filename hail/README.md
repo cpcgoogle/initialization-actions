@@ -1,4 +1,4 @@
-<img src="https://hail.is/hail-logo-cropped.png" alt="hail" />
+<img src="https://hail.is/hail-logo-cropped.png" alt="hail" width="500"/>
 
 All work courtsey of Hail Team @https://github.com/hail-is/hail, modified for Dataproc Optional Components 
 
