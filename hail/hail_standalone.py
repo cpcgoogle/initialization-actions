@@ -1,4 +1,6 @@
+# All work courtsey of Hail Team @https://github.com/hail-is/hail, 
 #!/opt/conda/default/bin/python3
+
 import json
 import os
 import subprocess as sp

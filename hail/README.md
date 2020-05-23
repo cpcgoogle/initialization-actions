@@ -1,4 +1,4 @@
-![Hail](https://hail.is/hail-logo-cropped.png)
+<img src="(https://hail.is/hail-logo-cropped.png" alt="hail" style="width:500px;"/>
 
 All work courtsey of Hail Team @https://github.com/hail-is/hail, modified for Dataproc Optional Components 
 
@@ -49,5 +49,5 @@ You can use this initialization action to create a Dataproc cluster with Hail in
     Gateway on the GCP Dataproc cluster console. Alternatively, you can access
     following the instructions in
     [connecting to cluster web interfaces](https://cloud.google.com/dataproc/docs/concepts/cluster-web-interfaces).
-1.  After open Jupyter notebook, make sure you select the `Hail` kernel
+1.  After opening the Jupyter notebook, make sure you select the `Hail` kernel
     
